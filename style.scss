@@ -1,0 +1,60 @@
+// Third Parts
+// ------------------------------------------------------------
+
+@import "assets/sass/vendor/effects";
+@import "assets/sass/vendor/flexbox";
+
+// Imports - Order is important
+// ------------------------------------------------------------
+
+@import "assets/sass/base/wordpress";
+@import "assets/sass/base/settings";
+@import "assets/sass/base/component_variables";
+@import "assets/sass/base/mixins";
+@import "assets/sass/base/base";
+@import "assets/sass/base/core";
+
+// Elements like buttons, titles, form, etc.
+// ------------------------------------------------------------
+
+@import "assets/sass/utilities/aligments";
+@import "assets/sass/utilities/buttons";
+@import "assets/sass/utilities/colors";
+@import "assets/sass/utilities/forms";
+@import "assets/sass/utilities/titles";
+
+// Components
+// ------------------------------------------------------------
+
+@import "assets/sass/components/_call_to_action";
+@import "assets/sass/components/_shuffle";
+@import "assets/sass/components/_motto";
+@import "assets/sass/components/_category1";
+@import "assets/sass/components/_category2";
+@import "assets/sass/components/_category3";
+@import "assets/sass/components/_category4";
+@import "assets/sass/components/_services";
+@import "assets/sass/components/_partners";
+@import "assets/sass/components/_premium";  
+@import "assets/sass/components/_logos";  
+
+// Layout
+// ------------------------------------------------------------
+
+@import "assets/sass/layout/_header"; 
+@import "assets/sass/layout/_nav"; 
+@import "assets/sass/layout/_footer"; 
+
+// Pages
+// ------------------------------------------------------------
+
+@import "assets/sass/pages/_pages";
+@import "assets/sass/pages/_premium";
+@import "assets/sass/pages/_nosotros";
+@import "assets/sass/pages/_contacto";
+
+// Additional Styles
+// ------------------------------------------------------------
+
+@import "assets/sass/overrides";
+
